@@ -1,0 +1,373 @@
+enterprise_id,name,sector,district,place,field_investigator_id,vintage_years,digital_adoption,upi_adoption_start_month,loan_taken_in_dataset,loan_amount,loan_tenure_months,loan_start_month_offset
+GJSU536890,Girish Patel Doodh Kendra,dairy,Surendranagar,Surendranagar,FI017,0.8,0.39,0,True,81458.45,12,18
+GJJA644024,Dairy Sahakari Mandali,dairy,Bharuch,Jambusar,FI005,5.2,0.33,5,False,0.0,0,0
+GJGA561403,Dilip Shah Milk Producers Co-op,dairy,Navsari,Gandevi,FI012,7.2,0.52,11,False,0.0,0,0
+GJPE854420,Bhavesh Rana Doodh Kendra,dairy,Anand,Petlad,FI004,1.9,0.29,4,True,126134.74,18,13
+GJAH399074,Ambe Milk Producers Co-op,dairy,Dang,Ahwa,FI007,9.2,0.29,5,False,0.0,0,0
+GJAN069602,Jai Dairy,dairy,Anand,Anand,FI002,5.3,0.59,10,False,0.0,0,0
+GJBH408985,Kantibhai Patel Doodh Kendra,dairy,Kutch,Bhuj,FI010,7.6,0.66,5,False,0.0,0,0
+GJKA830496,Milk Producers Co-op Sahakari Mandali,dairy,Kheda,Kapadvanj,FI009,0.5,0.54,2,False,0.0,0,0
+GJSU384766,Vijaybhai Desai Milk Producers Co-op,dairy,Surat,Surat,FI016,9.3,0.63,4,False,0.0,0,0
+GJPE285479,Kantibhai Parmar Milk Producers Co-op,dairy,Anand,Petlad,FI003,12.0,0.46,1,True,65471.06,9,19
+GJAN979486,Kaushik Desai Doodh Kendra,dairy,Kutch,Anjar,FI010,3.7,0.59,1,True,253575.31,18,-4
+GJPA005139,Dahyabhai Macwan Doodh Kendra,dairy,Banaskantha,Palanpur,FI004,3.1,0.21,8,True,109974.08,18,10
+GJSA292106,Dairy Sahakari Mandali,dairy,Vadodara,Savli,FI018,2.6,0.37,3,False,0.0,0,0
+GJPE478886,Kaushik Desai Dairy,dairy,Anand,Petlad,FI003,3.1,0.65,0,False,0.0,0,0
+GJAN780211,Dairy Sahakari Mandali,dairy,Anand,Anand,FI003,12.7,0.69,1,True,277718.5,12,-8
+GJPE110148,Umiya Dairy,dairy,Anand,Petlad,FI003,6.8,0.56,0,True,212618.85,24,13
+GJKA246183,Chandubhai Thakor Milk Producers Co-op,dairy,Kheda,Kapadvanj,FI008,3.6,0.46,0,False,0.0,0,0
+GJGA045811,Naresh Chauhan Milk Producers Co-op,dairy,Kutch,Gandhidham,FI010,3.9,0.51,2,True,189267.79,12,19
+GJSU203084,Santoshi Milk Producers Co-op,dairy,Surat,Surat,FI016,3.3,0.66,2,True,59779.4,12,8
+GJPA102370,Kalpesh Solanki Dairy,dairy,Patan,Patan,FI014,0.7,0.24,5,False,0.0,0,0
+GJBH356265,Maa Doodh Kendra,dairy,Bharuch,Bharuch,FI005,14.6,0.52,9,False,0.0,0,0
+GJHA047118,Maa Milk Producers Co-op,dairy,Panchmahal,Halol,FI014,1.1,0.13,7,False,0.0,0,0
+GJJA316350,Amit Solanki Doodh Kendra,dairy,Bharuch,Jambusar,FI005,2.6,0.7,3,True,54186.92,12,-8
+GJVY794269,Chandubhai Shah Doodh Kendra,dairy,Tapi,Vyara,FI017,11.8,0.47,9,True,169151.24,36,-28
+GJBO173052,Doodh Kendra Sahakari Mandali,dairy,Anand,Borsad,FI003,11.0,0.69,3,False,0.0,0,0
+GJNA182252,Jagdish Macwan Poultry Farms,poultry,Navsari,Navsari,FI013,4.9,0.12,7,True,197105.47,48,-17
+GJDH076336,Kaushik Bhuriya Hatchery,poultry,Ahmedabad,Dholka,FI001,9.0,0.48,2,False,0.0,0,0
+GJKA278451,Khodiyar Poultry Farm,poultry,Kheda,Kapadvanj,FI008,0.4,0.68,0,False,0.0,0,0
+GJSA751221,Ambe Hatchery,poultry,Ahmedabad,Sanand,FI002,7.2,0.31,0,False,0.0,0,0
+GJSU358723,Bharat Bhuriya Poultry Farm,poultry,Surat,Surat,FI016,2.9,0.37,6,True,137356.91,36,-11
+GJAH151145,Ambe Poultry Farm,poultry,Dang,Ahwa,FI006,6.9,0.36,2,True,75225.84,48,-17
+GJDH433818,Poultry Farms Sahakari Mandali,poultry,Ahmedabad,Dholka,FI001,4.9,0.61,3,False,0.0,0,0
+GJGO975414,Santoshi Poultry Farm,poultry,Panchmahal,Godhra,FI013,7.6,0.3,4,True,108456.29,9,20
+GJME780093,Ratilal Patel Hatchery,poultry,Mehsana,Mehsana,FI011,5.7,0.25,6,True,133238.97,24,0
+GJBH115967,Maa Hatchery,poultry,Bharuch,Bharuch,FI005,6.5,0.54,2,False,0.0,0,0
+GJAH501655,Ashok Parmar Poultry Farm,poultry,Ahmedabad,Ahmedabad,FI001,1.6,0.1,8,False,0.0,0,0
+GJGO308626,Ambe Poultry Farms,poultry,Panchmahal,Godhra,FI013,6.4,0.39,7,True,77833.56,36,-5
+GJAH922675,Ishwarbhai Damor Poultry Farm,poultry,Ahmedabad,Ahmedabad,FI001,3.9,0.36,5,False,0.0,0,0
+GJGO613080,Santoshi Hatchery,poultry,Panchmahal,Godhra,FI013,6.2,0.17,6,True,201256.95,12,11
+GJSA909714,Shri Poultry Farm,poultry,Ahmedabad,Sanand,FI002,1.8,0.28,0,True,162879.66,18,13
+GJGO346698,Bhavesh Baria Poultry Farm,poultry,Rajkot,Gondal,FI014,3.6,0.36,5,True,88614.93,30,20
+GJPA276629,Jayesh Chauhan Poultry Farm,poultry,Patan,Patan,FI014,6.5,0.41,4,False,0.0,0,0
+GJBA715793,Kalpesh Chauhan Poultry Farms,poultry,Surat,Bardoli,FI016,5.1,0.16,3,False,0.0,0,0
+GJVY862530,Maa Poultry Farm,poultry,Tapi,Vyara,FI017,4.0,0.24,3,False,0.0,0,0
+GJHA385369,Dilip Rana Hatchery,poultry,Panchmahal,Halol,FI014,6.1,0.1,7,True,214263.47,24,22
+GJVE171462,Poultry Farms Sahakari Mandali,poultry,Junagadh,Veraval,FI008,8.1,0.77,6,False,0.0,0,0
+GJME339843,Hatchery Sahakari Mandali,poultry,Mehsana,Mehsana,FI011,8.2,0.49,6,True,300474.02,36,-17
+GJBH236808,Vijaybhai Chauhan Poultry Farms,poultry,Bharuch,Bharuch,FI005,5.0,0.53,0,False,0.0,0,0
+GJPA324946,Mahesh Solanki Poultry Farms,poultry,Banaskantha,Palanpur,FI004,1.6,0.1,7,False,0.0,0,0
+GJRA165356,Rajesh Rathwa Hatchery,poultry,Rajkot,Rajkot,FI015,3.0,0.31,4,True,99876.3,12,-6
+GJPO681050,Mahesh Shah Poultry Farm,poultry,Porbandar,Porbandar,FI014,5.2,0.42,3,False,0.0,0,0
+GJAH808449,Kiran Damor Poultry Farm,poultry,Ahmedabad,Ahmedabad,FI001,2.1,0.23,0,True,143919.8,12,0
+GJHA318892,Santoshi Food Products,food_processing,Panchmahal,Halol,FI014,4.5,0.46,3,False,0.0,0,0
+GJNA074919,Pravin Thakor Food Products,food_processing,Kheda,Nadiad,FI009,2.0,0.17,4,False,0.0,0,0
+GJBO363274,Vinod Parmar Agro Foods,food_processing,Anand,Borsad,FI003,5.5,0.62,5,True,97598.72,12,-7
+GJAH186235,Umiya Food Products,food_processing,Ahmedabad,Ahmedabad,FI001,5.2,0.48,3,True,223052.36,6,14
+GJAN924925,Food Products Sahakari Mandali,food_processing,Bharuch,Ankleshwar,FI004,2.1,0.75,1,False,0.0,0,0
+GJMA265936,Umiya Snacks Udyog,food_processing,Bhavnagar,Mahuva,FI006,2.7,0.29,4,False,0.0,0,0
+GJAH772659,Jagdish Rana Food Products,food_processing,Dang,Ahwa,FI007,2.4,0.4,1,False,0.0,0,0
+GJNA575415,Chandubhai Parmar Food Products,food_processing,Navsari,Navsari,FI013,2.1,0.31,5,True,157791.95,48,0
+GJPE990361,Vinod Parmar Snacks Udyog,food_processing,Anand,Petlad,FI004,3.6,0.11,9,False,0.0,0,0
+GJVE423780,Khodiyar Agro Foods,food_processing,Junagadh,Veraval,FI008,8.6,0.26,11,False,0.0,0,0
+GJBO838446,Maa Agro Foods,food_processing,Anand,Borsad,FI003,7.4,0.37,3,False,0.0,0,0
+GJSU917412,Umiya Food Products,food_processing,Surat,Surat,FI016,4.4,0.34,5,False,0.0,0,0
+GJBA364547,Kiran Bhuriya Food Products,food_processing,Surat,Bardoli,FI016,3.1,0.32,2,False,0.0,0,0
+GJKA574870,Dilip Solanki Agro Foods,food_processing,Kheda,Kapadvanj,FI009,7.9,0.46,2,True,257636.06,24,15
+GJJE336290,Hitesh Rana Food Products,food_processing,Rajkot,Jetpur,FI015,1.0,0.71,1,False,0.0,0,0
+GJAH091721,Mahesh Chauhan Agro Foods,food_processing,Dang,Ahwa,FI006,13.7,0.26,8,True,152390.73,48,-23
+GJAN893537,Nitin Solanki Snacks Udyog,food_processing,Kutch,Anjar,FI010,9.9,0.19,1,True,87628.79,12,13
+GJGO447984,Girish Vasava Snacks Udyog,food_processing,Rajkot,Gondal,FI015,2.0,0.8,3,True,194969.97,9,2
+GJBH358778,Ambe Snacks Udyog,food_processing,Bhavnagar,Bhavnagar,FI005,6.1,0.41,9,True,136155.39,48,-10
+GJDH276417,Shree Agro Foods,food_processing,Ahmedabad,Dholka,FI001,13.9,0.36,4,False,0.0,0,0
+GJCH515738,Amit Chauhan Agro Foods,food_processing,Chhota Udepur,Chhota Udepur,FI006,3.9,0.45,4,False,0.0,0,0
+GJBO462225,Maa Food Products,food_processing,Anand,Borsad,FI003,4.1,0.65,5,False,0.0,0,0
+GJNA203611,Ambe Agro Foods,food_processing,Navsari,Navsari,FI013,4.0,0.4,0,False,0.0,0,0
+GJSA798282,Manoj Damor Agro Foods,food_processing,Ahmedabad,Sanand,FI002,4.5,0.29,3,False,0.0,0,0
+GJPO477348,Manoj Solanki Snacks Udyog,food_processing,Porbandar,Porbandar,FI014,1.8,0.5,0,False,0.0,0,0
+GJVA702921,Vinod Rathwa Snacks Udyog,food_processing,Valsad,Valsad,FI019,9.7,0.23,6,True,287548.14,30,19
+GJSA721699,Kantibhai Parmar Agro Foods,food_processing,Ahmedabad,Sanand,FI002,2.4,0.5,5,False,0.0,0,0
+GJAM480231,Hitesh Bhuriya Snacks Udyog,food_processing,Amreli,Amreli,FI002,5.3,0.32,9,False,0.0,0,0
+GJRA706768,Kaushik Baria Food Products,food_processing,Narmada,Rajpipla,FI012,8.8,0.31,3,True,181292.01,24,-7
+GJGO416895,Girish Patel Agro Foods,food_processing,Rajkot,Gondal,FI014,1.2,0.17,5,False,0.0,0,0
+GJAH127011,Bhavesh Rana Food Products,food_processing,Dang,Ahwa,FI006,2.5,0.31,3,True,105778.46,12,16
+GJJE822306,Kalpesh Chauhan Agro Foods,food_processing,Rajkot,Jetpur,FI015,7.2,0.49,3,False,0.0,0,0
+GJVE260101,Agro Foods Sahakari Mandali,food_processing,Junagadh,Veraval,FI008,2.1,0.5,6,False,0.0,0,0
+GJAH710569,Dahyabhai Desai Snacks Udyog,food_processing,Ahmedabad,Ahmedabad,FI001,1.1,0.69,0,False,0.0,0,0
+GJJA593025,Rajesh Desai Food Products,food_processing,Bharuch,Jambusar,FI005,2.5,0.55,6,True,86578.5,6,-3
+GJJA986629,Ambe Snacks Udyog,food_processing,Jamnagar,Jamnagar,FI007,2.1,0.44,4,True,93920.99,12,-4
+GJJU827333,Bharat Bhuriya Agro Foods,food_processing,Junagadh,Junagadh,FI008,3.3,0.44,3,True,194990.55,30,-13
+GJKA964834,Bhupendra Chauhan Agro Foods,food_processing,Kheda,Kapadvanj,FI009,2.4,0.11,5,True,77638.19,12,17
+GJUN267235,Dahyabhai Solanki Agro Foods,food_processing,Mehsana,Unjha,FI011,8.1,0.11,7,True,94872.0,18,-11
+GJRA582489,Shree Agro Foods,food_processing,Narmada,Rajpipla,FI012,5.2,0.45,1,False,0.0,0,0
+GJGA467155,Khodiyar Food Products,food_processing,Navsari,Gandevi,FI012,2.7,0.29,0,True,148085.62,12,15
+GJPA807817,Ambe Snacks Udyog,food_processing,Banaskantha,Palanpur,FI004,3.1,0.64,0,True,82989.18,12,-8
+GJNA909320,Vijaybhai Solanki Agro Foods,food_processing,Navsari,Navsari,FI013,6.8,0.52,0,False,0.0,0,0
+GJKA794370,Snacks Udyog Sahakari Mandali,food_processing,Kheda,Kapadvanj,FI009,3.1,0.39,4,False,0.0,0,0
+GJBH028762,Vinod Baria Agro Foods,food_processing,Kutch,Bhuj,FI010,17.5,0.21,11,True,286160.72,36,18
+GJKA462005,Suresh Patel Food Products,food_processing,Kheda,Kapadvanj,FI009,10.1,0.32,10,False,0.0,0,0
+GJPE368832,Bhupendra Parmar Snacks Udyog,food_processing,Anand,Petlad,FI003,2.0,0.1,5,True,120933.24,18,8
+GJUN382261,Umiya Food Products,food_processing,Mehsana,Unjha,FI012,2.0,0.4,0,True,48722.73,12,-5
+GJVA363053,Shri Snacks Udyog,food_processing,Valsad,Valsad,FI019,4.8,0.12,4,False,0.0,0,0
+GJPO377568,Nitin Macwan Agro Foods,food_processing,Porbandar,Porbandar,FI014,0.3,0.32,0,False,0.0,0,0
+GJVY136553,Ashok Parmar Food Products,food_processing,Tapi,Vyara,FI017,9.0,0.35,6,True,250216.84,18,10
+GJPA662570,Kala Kendra Sahakari Mandali,handicrafts,Patan,Patan,FI014,1.8,0.51,2,False,0.0,0,0
+GJJA951162,Ashok Patel Kala Kendra,handicrafts,Jamnagar,Jamnagar,FI007,4.7,0.7,0,False,0.0,0,0
+GJBA169070,Kala Kendra Sahakari Mandali,handicrafts,Surat,Bardoli,FI016,2.6,0.25,10,False,0.0,0,0
+GJAN886328,Bhupendra Parmar Kala Kendra,handicrafts,Kutch,Anjar,FI010,2.5,0.43,9,False,0.0,0,0
+GJAN407495,Shree Handicrafts,handicrafts,Bharuch,Ankleshwar,FI004,1.0,0.32,0,False,0.0,0,0
+GJPE706451,Dahyabhai Rana Hastkala Kendra,handicrafts,Anand,Petlad,FI003,0.5,0.44,2,False,0.0,0,0
+GJDH034124,Dahyabhai Rana Handicrafts,handicrafts,Ahmedabad,Dholka,FI001,1.7,0.31,8,False,0.0,0,0
+GJPA925162,Mahesh Baria Kala Kendra,handicrafts,Patan,Patan,FI014,6.9,0.42,2,False,0.0,0,0
+GJDA441171,Ambe Hastkala Kendra,handicrafts,Vadodara,Dabhoi,FI018,6.3,0.22,7,True,64625.74,36,-25
+GJGA407917,Shri Hastkala Kendra,handicrafts,Navsari,Gandevi,FI012,10.0,0.25,6,False,0.0,0,0
+GJAN660862,Kala Kendra Sahakari Mandali,handicrafts,Kutch,Anjar,FI010,5.7,0.1,6,False,0.0,0,0
+GJMA405137,Vijaybhai Shah Handicrafts,handicrafts,Bhavnagar,Mahuva,FI006,7.2,0.46,0,True,115127.56,18,6
+GJNA670005,Amit Parmar Kala Kendra,handicrafts,Navsari,Navsari,FI013,3.7,0.1,3,False,0.0,0,0
+GJBH504769,Bharat Parmar Hastkala Kendra,handicrafts,Bhavnagar,Bhavnagar,FI006,0.6,0.34,3,True,57840.97,24,19
+GJBH020839,Handicrafts Sahakari Mandali,handicrafts,Bharuch,Bharuch,FI005,1.4,0.47,0,False,0.0,0,0
+GJHI217809,Umiya Handicrafts,handicrafts,Sabarkantha,Himatnagar,FI015,3.4,0.51,5,False,0.0,0,0
+GJME848868,Kaushik Thakor Handicrafts,handicrafts,Mehsana,Mehsana,FI011,3.9,0.27,0,False,0.0,0,0
+GJAN485637,Santoshi Handicrafts,handicrafts,Kutch,Anjar,FI010,4.9,0.34,8,True,95050.85,12,12
+GJGA960032,Ranchhod Kala Kendra,handicrafts,Kutch,Gandhidham,FI011,1.3,0.31,2,True,70638.81,18,15
+GJBH923507,Khodiyar Hastkala Kendra,handicrafts,Bharuch,Bharuch,FI005,4.5,0.35,1,True,193801.29,6,12
+GJJU048124,Om Kala Kendra,handicrafts,Junagadh,Junagadh,FI008,1.9,0.66,3,False,0.0,0,0
+GJJA802797,Mahesh Thakor Handicrafts,handicrafts,Jamnagar,Jamnagar,FI007,0.8,0.23,3,False,0.0,0,0
+GJGA401958,Ratilal Shah Handicrafts,handicrafts,Gandhinagar,Gandhinagar,FI007,5.0,0.33,0,False,0.0,0,0
+GJBH728133,Manoj Macwan Kala Kendra,handicrafts,Kutch,Bhuj,FI010,7.8,0.55,0,False,0.0,0,0
+GJAH913696,Jai Handicrafts,handicrafts,Ahmedabad,Ahmedabad,FI001,1.9,0.36,8,False,0.0,0,0
+GJVE841662,Kala Kendra Sahakari Mandali,handicrafts,Junagadh,Veraval,FI008,5.2,0.53,4,False,0.0,0,0
+GJWA331578,Kala Kendra Sahakari Mandali,handicrafts,Surendranagar,Wadhwan,FI017,2.6,0.59,0,False,0.0,0,0
+GJPA122953,Rajesh Vasava Hastkala Kendra,handicrafts,Vadodara,Padra,FI018,0.7,0.56,0,False,0.0,0,0
+GJBH539503,Ambe General Store,rural_retail,Bhavnagar,Bhavnagar,FI006,9.3,0.56,0,True,69245.25,6,18
+GJJE169043,Jai Kirana Store,rural_retail,Rajkot,Jetpur,FI015,4.5,0.5,1,True,241761.96,36,-3
+GJBA988202,Maa General Store,rural_retail,Surat,Bardoli,FI016,6.4,0.39,4,False,0.0,0,0
+GJWA787477,Vijaybhai Macwan Provision Store,rural_retail,Surendranagar,Wadhwan,FI017,1.2,0.23,2,False,0.0,0,0
+GJDH567056,Girish Patel Kirana Store,rural_retail,Ahmedabad,Dholka,FI001,6.9,0.3,5,False,0.0,0,0
+GJAN282676,Hitesh Shah General Store,rural_retail,Anand,Anand,FI002,2.1,0.18,4,False,0.0,0,0
+GJAH202470,Dilip Chauhan Kirana Store,rural_retail,Dang,Ahwa,FI007,2.6,0.22,8,False,0.0,0,0
+GJJU812242,Nitin Parmar Kirana Store,rural_retail,Junagadh,Junagadh,FI008,2.4,0.54,5,True,142774.69,24,14
+GJPA150356,Kaushik Solanki General Store,rural_retail,Banaskantha,Palanpur,FI004,6.4,0.41,5,False,0.0,0,0
+GJKA584424,Mahesh Rathwa Kirana Store,rural_retail,Kheda,Kapadvanj,FI009,3.9,0.28,5,True,214263.06,18,17
+GJBO494324,Jai Provision Store,rural_retail,Botad,Botad,FI006,5.1,0.18,8,True,90816.15,24,11
+GJBH230715,Rajesh Thakor Provision Store,rural_retail,Bharuch,Bharuch,FI005,1.5,0.56,2,False,0.0,0,0
+GJDA120219,Khodiyar General Store,rural_retail,Vadodara,Dabhoi,FI017,13.3,0.32,7,False,0.0,0,0
+GJNA376431,Umiya Provision Store,rural_retail,Navsari,Navsari,FI013,0.8,0.33,0,False,0.0,0,0
+GJJU562783,Kantibhai Patel General Store,rural_retail,Junagadh,Junagadh,FI008,2.2,0.37,5,False,0.0,0,0
+GJME272036,Shree Kirana Store,rural_retail,Mehsana,Mehsana,FI011,4.6,0.61,3,True,54236.68,18,0
+GJAN288399,Ratilal Chauhan Kirana Store,rural_retail,Kutch,Anjar,FI010,7.4,0.4,3,True,216792.53,24,-17
+GJKA567560,Ranchhod Kirana Store,rural_retail,Kheda,Kapadvanj,FI009,0.9,0.3,0,False,0.0,0,0
+GJKA142300,Ambe Aata Chakki,flour_mill,Kheda,Kapadvanj,FI008,5.1,0.69,1,False,0.0,0,0
+GJPA888304,Vinod Bhuriya Flour Mills,flour_mill,Vadodara,Padra,FI018,4.9,0.3,0,True,35315.75,18,8
+GJJE448300,Dilip Patel Flour Mills,flour_mill,Rajkot,Jetpur,FI015,4.5,0.51,5,True,118278.37,12,0
+GJVA865089,Flour Mills Sahakari Mandali,flour_mill,Vadodara,Vadodara,FI019,8.0,0.89,0,True,174187.37,18,-4
+GJRA555190,Suresh Desai Aata Chakki,flour_mill,Rajkot,Rajkot,FI015,7.4,0.47,4,False,0.0,0,0
+GJNA602714,Om Flour Mills,flour_mill,Kheda,Nadiad,FI009,4.3,0.55,6,True,208372.17,24,-8
+GJAM930521,Ranchhod Flour Mills,flour_mill,Amreli,Amreli,FI002,7.6,0.95,4,True,207038.0,24,9
+GJGO625077,Ranchhod Flour Mills,flour_mill,Rajkot,Gondal,FI015,3.5,0.81,3,False,0.0,0,0
+GJNA325078,Ambe Flour Mills,flour_mill,Kheda,Nadiad,FI009,2.8,0.66,1,False,0.0,0,0
+GJBH186667,Hitesh Thakor Flour Mills,flour_mill,Kutch,Bhuj,FI010,12.2,0.85,3,True,85032.84,24,-1
+GJME205932,Ashok Patel Flour Mill,flour_mill,Mehsana,Mehsana,FI011,6.9,0.26,2,False,0.0,0,0
+GJBO605393,Shree Flour Mills,flour_mill,Botad,Botad,FI006,2.1,0.65,0,False,0.0,0,0
+GJRA719173,Om Flour Mill,flour_mill,Narmada,Rajpipla,FI012,5.4,0.35,5,True,259671.2,24,-13
+GJPO972794,Rajesh Chauhan Aata Chakki,flour_mill,Porbandar,Porbandar,FI014,5.6,0.78,0,False,0.0,0,0
+GJPE714716,Shri Aata Chakki,flour_mill,Anand,Petlad,FI003,4.8,0.38,7,True,104361.79,24,18
+GJBH578272,Umiya Flour Mills,flour_mill,Kutch,Bhuj,FI010,2.5,0.55,0,False,0.0,0,0
+GJNA749676,Maa Flour Mill,flour_mill,Kheda,Nadiad,FI009,3.7,0.5,2,True,72074.16,9,2
+GJWA345666,Pravin Chauhan Aata Chakki,flour_mill,Surendranagar,Wadhwan,FI017,2.3,0.37,3,True,53396.72,30,-8
+GJDA207094,Girish Parmar Flour Mills,flour_mill,Vadodara,Dabhoi,FI018,4.4,0.77,0,True,193220.74,24,7
+GJVE589139,Flour Mills Sahakari Mandali,flour_mill,Junagadh,Veraval,FI008,5.5,0.37,4,False,0.0,0,0
+GJKA013329,Ranchhod Flour Mills,flour_mill,Kheda,Kapadvanj,FI008,5.8,0.72,1,False,0.0,0,0
+GJNA753459,Om Flour Mill,flour_mill,Kheda,Nadiad,FI009,6.7,0.22,8,True,293109.12,36,15
+GJSU705498,Bhavesh Thakor Ghani Udyog,oil_mill,Surendranagar,Surendranagar,FI017,19.0,0.62,12,False,0.0,0,0
+GJPA088025,Kalpesh Chauhan Ghani Udyog,oil_mill,Banaskantha,Palanpur,FI004,6.5,0.53,8,True,104041.71,24,-2
+GJSA841274,Tel Mill Sahakari Mandali,oil_mill,Ahmedabad,Sanand,FI002,3.2,0.34,1,True,139957.64,18,6
+GJDE127020,Tel Mill Sahakari Mandali,oil_mill,Banaskantha,Deesa,FI004,3.1,0.53,0,True,128978.58,48,-23
+GJAN520614,Kantibhai Chauhan Tel Mill,oil_mill,Bharuch,Ankleshwar,FI004,2.3,0.51,1,False,0.0,0,0
+GJGA516431,Hitesh Rana Tel Mill,oil_mill,Navsari,Gandevi,FI012,5.2,0.75,6,True,191212.25,9,7
+GJGA034298,Maa Ghani Udyog,oil_mill,Gandhinagar,Gandhinagar,FI007,5.0,0.32,8,True,190933.09,36,-26
+GJBO101462,Mahesh Rana Ghani Udyog,oil_mill,Anand,Borsad,FI003,1.9,0.39,10,True,184404.56,24,-17
+GJDE183283,Girish Solanki Tel Mill,oil_mill,Banaskantha,Deesa,FI004,9.8,0.51,5,True,276962.36,18,13
+GJAM661853,Om Oil Mill,oil_mill,Amreli,Amreli,FI002,2.6,0.62,2,True,45162.05,30,-19
+GJGO402923,Umiya Tel Mill,oil_mill,Rajkot,Gondal,FI014,4.1,0.51,2,False,0.0,0,0
+GJBO661148,Shree Ghani Udyog,oil_mill,Botad,Botad,FI006,9.5,0.4,5,True,100283.11,12,-7
+GJBH328661,Dahyabhai Parmar Ghani Udyog,oil_mill,Kutch,Bhuj,FI010,1.4,0.56,0,False,0.0,0,0
+GJRA042919,Manoj Shah Ghani Udyog,oil_mill,Narmada,Rajpipla,FI012,3.5,0.51,1,False,0.0,0,0
+GJRA522975,Tel Mill Sahakari Mandali,oil_mill,Rajkot,Rajkot,FI015,0.3,0.72,3,False,0.0,0,0
+GJBH241576,Kiran Chauhan Oil Mill,oil_mill,Bharuch,Bharuch,FI005,1.3,0.2,5,False,0.0,0,0
+GJGA313869,Girish Shah Oil Mill,oil_mill,Kutch,Gandhidham,FI011,3.4,0.53,6,True,148105.89,24,5
+GJGA110283,Amit Desai Oil Mill,oil_mill,Gandhinagar,Gandhinagar,FI007,4.1,0.63,2,True,248615.0,12,5
+GJSA168883,Ishwarbhai Desai Oil Mill,oil_mill,Vadodara,Savli,FI018,3.0,0.55,4,True,88522.42,6,18
+GJGA400995,Maa Oil Mill,oil_mill,Kutch,Gandhidham,FI011,4.4,0.53,3,True,96966.47,12,-6
+GJBH670584,Kalpesh Solanki Tel Mill,oil_mill,Kutch,Bhuj,FI010,8.0,0.84,4,True,179847.17,18,-11
+GJVA855866,Jai Ghani Udyog,oil_mill,Valsad,Vapi,FI019,18.8,0.95,7,True,158695.25,24,19
+GJBA366877,Shri Ghani Udyog,oil_mill,Surat,Bardoli,FI016,2.9,0.55,4,False,0.0,0,0
+GJSU980021,Naresh Shah Ghani Udyog,oil_mill,Surat,Surat,FI016,4.0,0.68,3,False,0.0,0,0
+GJPA977105,Kalpesh Bhuriya Tel Mill,oil_mill,Banaskantha,Palanpur,FI004,2.3,0.51,0,True,84282.28,6,-3
+GJPE496687,Vijaybhai Bhuriya Oil Mill,oil_mill,Anand,Petlad,FI003,14.4,0.35,3,True,171772.66,9,8
+GJRA969379,Tel Mill Sahakari Mandali,oil_mill,Rajkot,Rajkot,FI015,4.6,0.44,0,False,0.0,0,0
+GJHI928693,Bhupendra Shah Oil Mill,oil_mill,Sabarkantha,Himatnagar,FI016,6.4,0.67,3,False,0.0,0,0
+GJJA325591,Suresh Rana Tel Mill,oil_mill,Jamnagar,Jamnagar,FI007,5.4,0.47,1,False,0.0,0,0
+GJGA800845,Suresh Rana Oil Mill,oil_mill,Kutch,Gandhidham,FI011,0.6,0.7,0,False,0.0,0,0
+GJPO193650,Shree Tel Mill,oil_mill,Porbandar,Porbandar,FI014,13.3,0.58,0,False,0.0,0,0
+GJKA947250,Ambe Weaving Works,textile_weaving,Kheda,Kapadvanj,FI009,3.0,0.32,4,True,201053.58,18,-14
+GJNA799022,Vinod Rathwa Weaving Works,textile_weaving,Kheda,Nadiad,FI010,3.9,0.36,2,False,0.0,0,0
+GJBH336193,Vijaybhai Chauhan Handloom Works,textile_weaving,Bharuch,Bharuch,FI005,1.5,0.48,0,True,61614.3,9,19
+GJGA258964,Rajesh Parmar Handloom Works,textile_weaving,Gandhinagar,Gandhinagar,FI007,7.1,0.1,3,True,227807.47,24,-12
+GJJA775207,Kalpesh Damor Weaving Works,textile_weaving,Bharuch,Jambusar,FI005,7.1,0.1,4,False,0.0,0,0
+GJGO637379,Dahyabhai Shah Textiles,textile_weaving,Panchmahal,Godhra,FI013,9.6,0.36,7,False,0.0,0,0
+GJPE171612,Nitin Chauhan Textiles,textile_weaving,Anand,Petlad,FI003,6.7,0.35,1,False,0.0,0,0
+GJAN586302,Shri Handloom Works,textile_weaving,Bharuch,Ankleshwar,FI004,2.5,0.27,6,True,77886.12,12,6
+GJWA922463,Om Textiles,textile_weaving,Surendranagar,Wadhwan,FI017,3.4,0.69,0,False,0.0,0,0
+GJNA295406,Kalpesh Rana Weaving Works,textile_weaving,Kheda,Nadiad,FI009,2.1,0.5,0,True,94182.27,12,16
+GJAM462937,Textiles Sahakari Mandali,textile_weaving,Amreli,Amreli,FI002,13.5,0.32,7,False,0.0,0,0
+GJMA981278,Ratilal Rana Weaving Works,textile_weaving,Bhavnagar,Mahuva,FI006,5.2,0.33,11,True,119234.24,30,-13
+GJDE399319,Kalpesh Solanki Weaving Works,textile_weaving,Banaskantha,Deesa,FI004,10.7,0.59,6,False,0.0,0,0
+GJPA438604,Naresh Desai Handloom Works,textile_weaving,Vadodara,Padra,FI018,12.1,0.33,10,False,0.0,0,0
+GJSU068636,Santoshi Handloom Works,textile_weaving,Surat,Surat,FI016,3.7,0.22,2,True,255855.88,24,-4
+GJAM462066,Om Textiles,textile_weaving,Amreli,Amreli,FI002,2.5,0.17,5,False,0.0,0,0
+GJNA776302,Kiran Rana Handloom Works,textile_weaving,Navsari,Navsari,FI013,9.1,0.11,6,True,204429.59,6,7
+GJBA921116,Jagdish Thakor Brick Works,brick_kiln,Surat,Bardoli,FI016,3.1,0.92,2,True,68681.84,36,-16
+GJVA669061,Jayesh Damor Bhattha Udyog,brick_kiln,Vadodara,Vadodara,FI019,6.6,0.68,1,False,0.0,0,0
+GJGA748777,Chandubhai Damor Bricks & Tiles,brick_kiln,Navsari,Gandevi,FI013,1.7,0.37,6,True,246634.84,12,7
+GJHI671111,Shri Bhattha Udyog,brick_kiln,Sabarkantha,Himatnagar,FI015,5.1,0.5,3,False,0.0,0,0
+GJME381595,Shri Brick Works,brick_kiln,Mehsana,Mehsana,FI011,3.9,0.3,0,False,0.0,0,0
+GJME875163,Umiya Bhattha Udyog,brick_kiln,Mehsana,Mehsana,FI011,2.8,0.6,4,False,0.0,0,0
+GJJA020097,Umiya Bhattha Udyog,brick_kiln,Bharuch,Jambusar,FI005,1.9,0.8,0,True,172338.36,24,-19
+GJNA956742,Jai Bricks & Tiles,brick_kiln,Kheda,Nadiad,FI010,3.3,0.67,1,False,0.0,0,0
+GJAH447997,Kaushik Vasava Brick Works,brick_kiln,Dang,Ahwa,FI007,2.5,0.78,3,True,166539.4,36,1
+GJGO086628,Amit Patel Brick Works,brick_kiln,Rajkot,Gondal,FI014,7.4,0.37,3,False,0.0,0,0
+GJDH151724,Kaushik Chauhan Bhattha Udyog,brick_kiln,Ahmedabad,Dholka,FI001,1.5,0.4,1,True,227938.27,30,-7
+GJDH886984,Brick Works Sahakari Mandali,brick_kiln,Ahmedabad,Dholka,FI001,4.9,0.46,1,False,0.0,0,0
+GJBH917257,Bhavesh Baria Brick Works,brick_kiln,Bhavnagar,Bhavnagar,FI006,3.4,0.66,0,False,0.0,0,0
+GJRA357038,Khodiyar Bricks & Tiles,brick_kiln,Rajkot,Rajkot,FI015,3.5,0.5,6,True,112734.6,12,3
+GJPA685179,Brick Works Sahakari Mandali,brick_kiln,Vadodara,Padra,FI018,1.2,0.67,3,False,0.0,0,0
+GJDA060068,Bricks & Tiles Sahakari Mandali,brick_kiln,Vadodara,Dabhoi,FI017,3.2,0.67,3,False,0.0,0,0
+GJPA434302,Maa Bhattha Udyog,brick_kiln,Vadodara,Padra,FI018,5.2,0.54,3,True,167060.77,6,8
+GJVA695101,Santoshi Bhattha Udyog,brick_kiln,Vadodara,Vadodara,FI019,1.9,0.77,0,False,0.0,0,0
+GJAN771349,Maa Brick Works,brick_kiln,Anand,Anand,FI002,10.5,0.26,6,False,0.0,0,0
+GJNA034904,Ranchhod Bhattha Udyog,brick_kiln,Kheda,Nadiad,FI009,7.1,0.64,5,False,0.0,0,0
+GJPA275998,Nitin Parmar Brick Works,brick_kiln,Vadodara,Padra,FI018,24.1,0.37,8,True,53423.61,18,2
+GJVA576978,Ratilal Rathwa Bhattha Udyog,brick_kiln,Vadodara,Vadodara,FI018,0.7,0.36,5,False,0.0,0,0
+GJPA685978,Brick Works Sahakari Mandali,brick_kiln,Vadodara,Padra,FI018,10.5,0.87,0,False,0.0,0,0
+GJMO617879,Beej Bhandar Sahakari Mandali,agri_input_retail,Morbi,Morbi,FI012,1.9,0.51,1,True,185864.98,9,-4
+GJRA308633,Om Krishi Kendra,agri_input_retail,Rajkot,Rajkot,FI015,8.3,0.8,0,False,0.0,0,0
+GJGO058024,Agro Center Sahakari Mandali,agri_input_retail,Panchmahal,Godhra,FI013,3.7,0.42,0,True,58782.37,12,5
+GJVY326786,Umiya Krishi Kendra,agri_input_retail,Tapi,Vyara,FI017,2.3,0.54,1,True,37669.19,36,16
+GJDE331636,Vinod Chauhan Agro Center,agri_input_retail,Banaskantha,Deesa,FI004,1.9,0.31,0,True,142281.57,18,7
+GJDA366075,Dilip Patel Agro Center,agri_input_retail,Vadodara,Dabhoi,FI018,0.2,0.95,0,False,0.0,0,0
+GJME448596,Om Agro Center,agri_input_retail,Mehsana,Mehsana,FI011,4.6,0.48,6,False,0.0,0,0
+GJGO432106,Bhupendra Chauhan Agro Center,agri_input_retail,Panchmahal,Godhra,FI013,5.3,0.74,4,False,0.0,0,0
+GJSA920033,Kaushik Bhuriya Krishi Kendra,agri_input_retail,Ahmedabad,Sanand,FI002,1.8,0.36,2,True,50474.66,6,10
+GJJU021431,Maa Agro Center,agri_input_retail,Junagadh,Junagadh,FI008,5.2,0.63,0,True,86279.64,12,5
+GJNA663511,Ishwarbhai Patel Beej Bhandar,agri_input_retail,Kheda,Nadiad,FI009,5.7,0.37,8,False,0.0,0,0
+GJKA152183,Mahesh Parmar Krishi Kendra,agri_input_retail,Kheda,Kapadvanj,FI008,5.8,0.68,8,True,99569.71,12,6
+GJME033208,Vinod Desai Krishi Kendra,agri_input_retail,Mehsana,Mehsana,FI011,4.2,0.42,4,False,0.0,0,0
+GJAH117414,Agro Center Sahakari Mandali,agri_input_retail,Ahmedabad,Ahmedabad,FI001,9.2,0.65,0,False,0.0,0,0
+GJVI052624,Krishi Kendra Sahakari Mandali,agri_input_retail,Mehsana,Visnagar,FI012,7.8,0.72,1,True,126948.78,12,8
+GJJU916402,Om Agro Center,agri_input_retail,Junagadh,Junagadh,FI008,5.0,0.45,0,False,0.0,0,0
+GJVY488715,Maa Agro Center,agri_input_retail,Tapi,Vyara,FI017,4.2,0.71,5,False,0.0,0,0
+GJBO378568,Vijaybhai Parmar Agro Center,agri_input_retail,Anand,Borsad,FI003,4.9,0.52,0,False,0.0,0,0
+GJDH442620,Maa Beej Bhandar,agri_input_retail,Ahmedabad,Dholka,FI001,2.0,0.51,2,False,0.0,0,0
+GJGA495543,Om Krishi Kendra,agri_input_retail,Navsari,Gandevi,FI012,9.9,0.43,0,False,0.0,0,0
+GJKA378015,Ashok Vasava Krishi Kendra,agri_input_retail,Kheda,Kapadvanj,FI009,7.5,0.82,1,False,0.0,0,0
+GJMA655320,Shree Krishi Kendra,agri_input_retail,Bhavnagar,Mahuva,FI006,4.7,0.66,5,True,142657.43,36,16
+GJPE240820,Om Krishi Kendra,agri_input_retail,Anand,Petlad,FI003,7.6,0.87,1,True,153828.5,30,1
+GJSU148592,Hitesh Bhuriya Beej Bhandar,agri_input_retail,Surat,Surat,FI016,2.5,0.58,2,True,68761.06,18,1
+GJJU971713,Ashok Solanki Krishi Kendra,agri_input_retail,Junagadh,Junagadh,FI008,9.1,0.86,0,False,0.0,0,0
+GJGO304141,Agro Center Sahakari Mandali,agri_input_retail,Panchmahal,Godhra,FI013,2.3,0.33,3,False,0.0,0,0
+GJBO343828,Hitesh Chauhan Agro Center,agri_input_retail,Anand,Borsad,FI003,4.2,0.55,0,True,121105.54,6,13
+GJSA306191,Vijaybhai Rana Krishi Kendra,agri_input_retail,Vadodara,Savli,FI018,2.0,0.31,1,False,0.0,0,0
+GJKA404655,Krishi Kendra Sahakari Mandali,agri_input_retail,Kheda,Kapadvanj,FI009,1.3,0.47,1,False,0.0,0,0
+GJWA360041,Girish Shah Krishi Kendra,agri_input_retail,Surendranagar,Wadhwan,FI017,9.4,0.55,10,False,0.0,0,0
+GJPA452975,Shri Beej Bhandar,agri_input_retail,Vadodara,Padra,FI018,5.5,0.85,0,False,0.0,0,0
+GJUN368209,Hitesh Desai Beej Bhandar,agri_input_retail,Mehsana,Unjha,FI012,2.5,0.48,2,True,127632.11,24,-11
+GJMA089852,Pravin Thakor Krishi Kendra,agri_input_retail,Bhavnagar,Mahuva,FI006,4.9,0.68,5,True,208148.2,12,11
+GJUN106695,Rajesh Solanki Agro Center,agri_input_retail,Mehsana,Unjha,FI011,1.3,0.75,0,False,0.0,0,0
+GJJE688726,Suresh Rathwa Agro Center,agri_input_retail,Rajkot,Jetpur,FI015,6.6,0.5,5,True,49940.65,18,2
+GJAN307979,Ranchhod Krishi Kendra,agri_input_retail,Kutch,Anjar,FI010,4.0,0.65,2,True,184032.2,24,22
+GJPE222211,Amit Rana Agro Center,agri_input_retail,Anand,Petlad,FI003,13.1,0.42,6,False,0.0,0,0
+GJAN371510,Shri Krishi Kendra,agri_input_retail,Anand,Anand,FI002,0.6,0.5,4,True,155918.77,12,-7
+GJHA418569,Ishwarbhai Patel Krishi Kendra,agri_input_retail,Panchmahal,Halol,FI014,6.1,0.44,1,False,0.0,0,0
+GJHI672414,Manoj Chauhan Beej Bhandar,agri_input_retail,Sabarkantha,Himatnagar,FI015,4.9,0.37,1,False,0.0,0,0
+GJVA958742,Suresh Bhuriya Garage,auto_repair,Valsad,Vapi,FI019,6.2,0.36,9,False,0.0,0,0
+GJRA353286,Motor Works Sahakari Mandali,auto_repair,Narmada,Rajpipla,FI012,1.7,0.4,0,False,0.0,0,0
+GJBH517576,Santoshi Garage,auto_repair,Bharuch,Bharuch,FI005,7.3,0.6,0,False,0.0,0,0
+GJVA020178,Suresh Parmar Motor Works,auto_repair,Valsad,Valsad,FI019,6.9,0.25,9,False,0.0,0,0
+GJJE169048,Ishwarbhai Patel Garage,auto_repair,Rajkot,Jetpur,FI015,0.8,0.41,6,False,0.0,0,0
+GJNA367861,Dilip Chauhan Motor Works,auto_repair,Kheda,Nadiad,FI009,4.0,0.4,4,True,107480.14,18,17
+GJGA874567,Ranchhod Garage,auto_repair,Gandhinagar,Gandhinagar,FI007,1.2,0.43,3,False,0.0,0,0
+GJAM193681,Kaushik Solanki Auto Works,auto_repair,Amreli,Amreli,FI002,2.0,0.47,0,False,0.0,0,0
+GJAN009981,Jai Auto Works,auto_repair,Bharuch,Ankleshwar,FI004,0.6,0.81,4,False,0.0,0,0
+GJDA084676,Ambe Auto Works,auto_repair,Vadodara,Dabhoi,FI017,7.4,0.5,2,False,0.0,0,0
+GJCH714487,Om Motor Works,auto_repair,Chhota Udepur,Chhota Udepur,FI006,9.6,0.51,5,False,0.0,0,0
+GJSA871263,Nitin Parmar Garage,auto_repair,Vadodara,Savli,FI018,4.4,0.63,0,True,188601.61,12,10
+GJJE926921,Om Auto Works,auto_repair,Rajkot,Jetpur,FI015,13.2,0.41,10,False,0.0,0,0
+GJVA556358,Shri Garage,auto_repair,Valsad,Valsad,FI019,4.9,0.63,5,True,172180.96,48,-36
+GJPE442557,Dahyabhai Solanki Auto Works,auto_repair,Anand,Petlad,FI003,4.6,0.45,4,False,0.0,0,0
+GJNA354064,Hitesh Shah Garage,auto_repair,Kheda,Nadiad,FI009,1.9,0.82,1,False,0.0,0,0
+GJME179415,Bhupendra Patel Auto Works,auto_repair,Mehsana,Mehsana,FI011,1.4,0.41,2,False,0.0,0,0
+GJSA105745,Santoshi Garage,auto_repair,Ahmedabad,Sanand,FI001,3.1,0.13,5,False,0.0,0,0
+GJME690504,Motor Works Sahakari Mandali,auto_repair,Mehsana,Mehsana,FI011,3.5,0.44,4,False,0.0,0,0
+GJJA546904,Dahyabhai Chauhan Motor Works,auto_repair,Jamnagar,Jamnagar,FI007,5.5,0.43,5,True,137116.08,24,-17
+GJDA478824,Bhupendra Desai Auto Works,auto_repair,Vadodara,Dabhoi,FI018,1.5,0.43,5,False,0.0,0,0
+GJJE673177,Khodiyar Auto Works,auto_repair,Rajkot,Jetpur,FI015,4.5,0.39,2,True,193490.12,48,-24
+GJSU623112,Maa Garage,auto_repair,Surat,Surat,FI016,3.5,0.61,0,True,126313.46,9,21
+GJCH043551,Pravin Parmar Motor Works,auto_repair,Chhota Udepur,Chhota Udepur,FI006,4.6,0.48,0,True,189507.57,36,-24
+GJGA775399,Ratilal Desai Motor Works,auto_repair,Navsari,Gandevi,FI013,5.5,0.33,10,False,0.0,0,0
+GJBH136007,Amit Shah Motor Works,auto_repair,Bhavnagar,Bhavnagar,FI005,7.4,0.82,0,True,194072.58,18,-3
+GJPA404328,Shree Auto Works,auto_repair,Vadodara,Padra,FI018,3.6,0.68,0,False,0.0,0,0
+GJGO891797,Maa Auto Works,auto_repair,Panchmahal,Godhra,FI013,3.1,0.43,3,False,0.0,0,0
+GJGA512496,Motor Works Sahakari Mandali,auto_repair,Kutch,Gandhidham,FI011,4.3,0.45,1,False,0.0,0,0
+GJJA988242,Ashok Chauhan Garage,auto_repair,Bharuch,Jambusar,FI005,11.9,0.69,1,True,93161.32,6,15
+GJBO967404,Santoshi Auto Works,auto_repair,Botad,Botad,FI006,4.9,0.58,0,True,128179.37,24,-13
+GJMO463685,Ishwarbhai Desai Motor Works,auto_repair,Morbi,Morbi,FI012,2.5,0.57,6,True,127033.02,36,2
+GJAH955528,Ranchhod Bhojnalay,tea_stall_eatery,Dang,Ahwa,FI007,4.9,0.27,2,False,0.0,0,0
+GJSU509864,Ambe Hotel,tea_stall_eatery,Surat,Surat,FI016,0.7,0.29,4,False,0.0,0,0
+GJAH606679,Bhojnalay Sahakari Mandali,tea_stall_eatery,Ahmedabad,Ahmedabad,FI001,5.4,0.53,10,False,0.0,0,0
+GJGO587075,Maa Bhojnalay,tea_stall_eatery,Panchmahal,Godhra,FI013,6.6,0.49,1,True,122224.84,24,15
+GJSA198227,Ratilal Patel Tea Stall,tea_stall_eatery,Vadodara,Savli,FI018,5.3,0.2,7,True,127481.57,24,-11
+GJME743884,Vinod Shah Nasta Center,tea_stall_eatery,Mehsana,Mehsana,FI011,14.2,0.57,10,True,195501.34,24,19
+GJJU718009,Om Bhojnalay,tea_stall_eatery,Junagadh,Junagadh,FI008,1.0,0.46,0,True,38425.28,30,-22
+GJAN229260,Bharat Bhuriya Nasta Center,tea_stall_eatery,Kutch,Anjar,FI010,7.7,0.3,7,True,137453.8,18,-7
+GJGA144773,Ranchhod Tea Stall,tea_stall_eatery,Navsari,Gandevi,FI012,15.5,0.73,12,False,0.0,0,0
+GJJU840904,Nitin Solanki Hotel,tea_stall_eatery,Junagadh,Junagadh,FI008,0.8,0.26,4,True,116241.12,12,-9
+GJPO202928,Umiya Tea Stall,tea_stall_eatery,Porbandar,Porbandar,FI014,5.8,0.18,6,True,324199.62,9,8
+GJVA787174,Shree Tea Stall,tea_stall_eatery,Valsad,Valsad,FI019,4.8,0.35,3,True,107831.85,6,19
+GJMO763474,Vijaybhai Shah Hotel,tea_stall_eatery,Morbi,Morbi,FI012,1.0,0.78,2,True,62270.66,9,3
+GJKA183907,Om Nasta Center,tea_stall_eatery,Kheda,Kapadvanj,FI008,2.0,0.47,6,False,0.0,0,0
+GJGA805453,Jai Hotel,tea_stall_eatery,Kutch,Gandhidham,FI011,0.8,0.23,2,False,0.0,0,0
+GJSU706133,Pravin Baria Hotel,tea_stall_eatery,Surendranagar,Surendranagar,FI017,3.9,0.44,6,False,0.0,0,0
+GJAH393842,Ratilal Chauhan Tea Stall,tea_stall_eatery,Dang,Ahwa,FI007,16.2,0.29,9,True,103088.83,18,3
+GJSA220523,Kantibhai Vasava Hotel,tea_stall_eatery,Ahmedabad,Sanand,FI002,4.0,0.43,4,True,60013.37,12,13
+GJSU687356,Naresh Thakor Bhojnalay,tea_stall_eatery,Surendranagar,Surendranagar,FI017,3.2,0.41,2,False,0.0,0,0
+GJSU000755,Jai Nasta Center,tea_stall_eatery,Surat,Surat,FI016,0.7,0.37,8,False,0.0,0,0
+GJSA969162,Ratilal Desai Hotel,tea_stall_eatery,Ahmedabad,Sanand,FI002,9.1,0.52,5,True,233232.77,48,-17
+GJSA068166,Chandubhai Desai Hotel,tea_stall_eatery,Ahmedabad,Sanand,FI001,3.8,0.36,5,True,119327.79,24,-19
+GJBH621494,Om Nasta Center,tea_stall_eatery,Bhavnagar,Bhavnagar,FI006,4.9,0.47,7,True,53852.53,12,21
+GJAN556639,Bhavesh Shah Bhojnalay,tea_stall_eatery,Kutch,Anjar,FI010,1.9,0.94,0,False,0.0,0,0
+GJGO998556,Ishwarbhai Chauhan Hotel,tea_stall_eatery,Rajkot,Gondal,FI015,13.9,0.58,4,False,0.0,0,0
+GJAN791781,Ambe Tea Stall,tea_stall_eatery,Bharuch,Ankleshwar,FI004,1.7,0.26,0,False,0.0,0,0
+GJHA391132,Ranchhod Nasta Center,tea_stall_eatery,Panchmahal,Halol,FI014,3.5,0.41,0,True,164215.6,9,-1
+GJMA535718,Bhupendra Damor Hotel,tea_stall_eatery,Bhavnagar,Mahuva,FI006,3.8,0.38,8,True,214177.92,36,6
+GJSA897247,Maa Tea Stall,tea_stall_eatery,Ahmedabad,Sanand,FI002,2.3,0.23,4,False,0.0,0,0
+GJAN965919,Ambe Bhojnalay,tea_stall_eatery,Anand,Anand,FI003,2.9,0.31,6,False,0.0,0,0
+GJDA595448,Ambe Bhojnalay,tea_stall_eatery,Vadodara,Dabhoi,FI018,8.7,0.38,8,False,0.0,0,0
+GJSU889109,Chandubhai Solanki Hotel,tea_stall_eatery,Surendranagar,Surendranagar,FI017,5.3,0.1,2,False,0.0,0,0
+GJSA235382,Hotel Sahakari Mandali,tea_stall_eatery,Ahmedabad,Sanand,FI002,11.0,0.35,5,True,47236.57,6,21
+GJVA627327,Ramesh Parmar Bhojnalay,tea_stall_eatery,Vadodara,Vadodara,FI019,5.9,0.68,6,False,0.0,0,0
+GJPE784903,Kantibhai Chauhan Tea Stall,tea_stall_eatery,Anand,Petlad,FI004,11.0,0.42,5,True,217689.52,6,13
+GJHA707572,Tea Stall Sahakari Mandali,tea_stall_eatery,Panchmahal,Halol,FI014,4.8,0.31,7,True,105632.5,48,21
+GJAH693558,Hotel Sahakari Mandali,tea_stall_eatery,Dang,Ahwa,FI007,5.6,0.38,2,False,0.0,0,0
+GJVI984283,Pravin Parmar Bhojnalay,tea_stall_eatery,Mehsana,Visnagar,FI012,9.1,0.39,6,True,306133.62,48,21
+GJBH632008,Ambe Hotel,tea_stall_eatery,Kutch,Bhuj,FI010,3.3,0.26,4,True,105763.2,36,-7
+GJVI717380,Khodiyar Tea Stall,tea_stall_eatery,Mehsana,Visnagar,FI012,6.9,0.37,7,True,205169.49,6,12
+GJNA729669,Kiran Shah Nasta Center,tea_stall_eatery,Navsari,Navsari,FI013,8.6,0.33,4,True,149575.98,18,-9
+GJGA954182,Bharat Desai Hotel,tea_stall_eatery,Gandhinagar,Gandhinagar,FI007,12.5,0.27,7,False,0.0,0,0
+GJAH453688,Santoshi Nasta Center,tea_stall_eatery,Ahmedabad,Ahmedabad,FI001,5.1,0.74,3,False,0.0,0,0
+GJUN615629,Amit Rathwa Nasta Center,tea_stall_eatery,Mehsana,Unjha,FI012,0.9,0.38,2,False,0.0,0,0
+GJBH659255,Nasta Center Sahakari Mandali,tea_stall_eatery,Bharuch,Bharuch,FI005,4.0,0.3,4,True,147576.07,36,-14
+GJAH604651,Dahyabhai Baria Bhojnalay,tea_stall_eatery,Dang,Ahwa,FI007,8.7,0.1,15,False,0.0,0,0
+GJSU081121,Jai Tea Stall,tea_stall_eatery,Surat,Surat,FI016,4.0,0.28,7,True,158004.17,12,15
+GJBH493942,Khodiyar Tea Stall,tea_stall_eatery,Bhavnagar,Bhavnagar,FI005,5.5,0.1,12,False,0.0,0,0
+GJGO021731,Dilip Thakor Hotel,tea_stall_eatery,Panchmahal,Godhra,FI013,4.8,0.3,5,False,0.0,0,0
+GJVY740176,Nasta Center Sahakari Mandali,tea_stall_eatery,Tapi,Vyara,FI017,3.1,0.67,0,False,0.0,0,0
+GJWA893924,Maa Nasta Center,tea_stall_eatery,Surendranagar,Wadhwan,FI017,2.6,0.65,0,False,0.0,0,0
+GJAH107933,Jagdish Parmar Bhojnalay,tea_stall_eatery,Ahmedabad,Ahmedabad,FI001,2.7,0.1,9,False,0.0,0,0
+GJGA210565,Ishwarbhai Thakor Hotel,tea_stall_eatery,Gandhinagar,Gandhinagar,FI007,1.2,0.45,2,False,0.0,0,0
+GJVA785277,Rajesh Shah Nasta Center,tea_stall_eatery,Valsad,Vapi,FI019,4.0,0.53,1,True,313241.24,36,-18
+GJJA502738,Ratilal Thakor Hotel,tea_stall_eatery,Bharuch,Jambusar,FI005,1.8,0.51,4,False,0.0,0,0
+GJDE399425,Chandubhai Rana Hotel,tea_stall_eatery,Banaskantha,Deesa,FI004,1.4,0.54,7,True,142302.6,36,-15
+GJSU377081,Manoj Rana Nasta Center,tea_stall_eatery,Surendranagar,Surendranagar,FI016,2.6,0.53,2,False,0.0,0,0
+GJSU157867,Manoj Patel Nasta Center,tea_stall_eatery,Surendranagar,Surendranagar,FI016,1.0,0.33,3,False,0.0,0,0
