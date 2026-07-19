@@ -1,0 +1,9 @@
+{
+  "gt_enterprise_count": 398,
+  "panel_enterprise_count": 398,
+  "overlap_count": 398,
+  "scripted_stress_vs_observable_label_correlation": 0.02704737384190517,
+  "scripted_stress_vs_observable_label_pvalue": 0.008203081347542962,
+  "forecast_residual_vs_performance_multiplier_correlation": -0.030255701454356583,
+  "status": "OK"
+}
