@@ -1,0 +1,70 @@
+{
+  "checks": [
+    {
+      "name": "district_indices row count",
+      "passed": true,
+      "detail": "672 rows (expected 672)"
+    },
+    {
+      "name": "monthly_records row count",
+      "passed": true,
+      "detail": "9552 rows (expected 9552)"
+    },
+    {
+      "name": "enterprises row count",
+      "passed": true,
+      "detail": "398 rows (expected 398)"
+    },
+    {
+      "name": "enterprise_ground_truth row count",
+      "passed": true,
+      "detail": "398 rows (expected 398)"
+    },
+    {
+      "name": "transactions row count > 0",
+      "passed": true,
+      "detail": "160208 rows"
+    },
+    {
+      "name": "net_cash_flow identity (income - expenses - emi_due)",
+      "passed": "True",
+      "detail": "max abs difference = 0.0100 across 9552 rows"
+    },
+    {
+      "name": "emi_due is 0 whenever has_loan is False",
+      "passed": true,
+      "detail": "0 violating rows"
+    },
+    {
+      "name": "monthly_records and enterprises.csv share the exact same enterprise_id set",
+      "passed": true,
+      "detail": "398 shared / 398 monthly_records / 398 enterprises"
+    },
+    {
+      "name": "monthly_records and enterprise_ground_truth.csv share the exact same enterprise_id set",
+      "passed": true,
+      "detail": "398 shared / 398 / 398"
+    },
+    {
+      "name": "every enterprise_id in transactions.csv exists in monthly_records.csv",
+      "passed": true,
+      "detail": "398 of 398 transaction enterprise_ids found in monthly_records"
+    },
+    {
+      "name": "every district in enterprises.csv exists in district_indices.csv",
+      "passed": true,
+      "detail": "0 district(s) not found"
+    },
+    {
+      "name": "UPI inflow volume never exceeds total transacted inflow volume",
+      "passed": "True",
+      "detail": "0 violating enterprise-months"
+    },
+    {
+      "name": "UPI outflow volume never exceeds total transacted outflow volume",
+      "passed": "True",
+      "detail": "0 violating enterprise-months"
+    }
+  ],
+  "blocking_issues": []
+}
